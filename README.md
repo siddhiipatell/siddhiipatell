@@ -29,6 +29,8 @@
 
 - ☁️ I'm also interested in **3d modelling, graphic designing and UI/UX**. 
 
+- 💼 I'm a freelance graphic designer.
+
 - 📫 Feel free to reach me out **patelsiddhi2002@gmail.com**
 
 <!--Intro end-->
