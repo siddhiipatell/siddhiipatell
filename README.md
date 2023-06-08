@@ -27,6 +27,8 @@
 
 - 📫 Feel free to reach me out **patelsiddhi2002@gmail.com**
 
+- 📝 Blog: https://medium.com/@patelsiddhi2002
+
 <!--Intro end-->
 
 
