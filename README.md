@@ -17,9 +17,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB**
+- 🔭 I’m currently working on **AWS and DevOps**
 
-- 🌱 I’m currently learning **different cloud computing platforms.**
+- 🌱 I’m currently learning **different DevOps tools and cloud platforms.**
 
 - ☁️ I'm also interested in **3d modelling, graphic designing and UI/UX**. 
 
@@ -64,7 +64,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp,blender,figma,ps,ai,xd,c,cpp,java,py,js,html,css,bootstrap,react,nodejs,express,mongodb,mysql,materialui,docker,linux,solidity,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp,linux,docker,chef,ansible,maven,jenkins,blender,figma,ps,ai,xd,c,cpp,java,py,js,html,css,bootstrap,react,nodejs,express,mongodb,mysql,materialui,solidity,vscode&perline=14" />
   </a>
 </p>
 
