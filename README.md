@@ -64,7 +64,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp,linux,docker,chef,ansible,maven,jenkins,blender,figma,ps,ai,xd,c,cpp,java,py,js,html,css,bootstrap,react,nodejs,express,mongodb,mysql,materialui,solidity,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp,linux,docker,ansible,maven,jenkins,blender,figma,ps,ai,xd,c,cpp,java,py,js,html,css,bootstrap,react,nodejs,express,mongodb,mysql,materialui,solidity,vscode&perline=14" />
   </a>
 </p>
 
