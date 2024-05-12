@@ -17,9 +17,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS and DevOps**
+- 🔭 I’m currently working on **Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently learning **different DevOps tools and cloud platforms.**
+- 🌱 I’m currently learning **different AI & ML Models.**
 
 - ☁️ I'm also interested in **3d modelling, graphic designing and UI/UX**. 
 
