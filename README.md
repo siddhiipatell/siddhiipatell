@@ -9,8 +9,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="![grid-snake](https://github.com/siddhiipatell/siddhiipatell/assets/67776005/aa2aee8c-e13f-4a56-b3be-e2063128c3b4)
-"
+  <img  src="![grid-snake](https://github.com/siddhiipatell/siddhiipatell/assets/67776005/aa2aee8c-e13f-4a56-b3be-e2063128c3b4)"
        alt="snake" /></a>
 </div>
 
