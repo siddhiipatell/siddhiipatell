@@ -19,16 +19,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhiipatell&theme=tokyonight&show_icons=true&count_private=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhiipatell&theme=tokyonight&hide_border=true" width="47%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiipatell&theme=tokyonight&layout=compact&langs_count=10&hide_border=true" width="60%" />
-</div>
-
----
-
 <!-- Tech Stack Section -->
 ### 🧠 Technologies & Tools  
 <p align="center">
@@ -43,10 +33,3 @@
   <a href="https://www.linkedin.com/in/siddhiipatell/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="40"/></a>
   <a href="https://twitter.com/siddhiipatell" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="40"/></a>
 </p>
-
----
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=siddhiipatell&icon=3&color=6" />
-</div>
