@@ -17,19 +17,21 @@
 - 📫 Reach me at: **patelsiddhi2002@gmail.com**  
 - ✍🏻 I write sometimes: [My Medium Blog](https://medium.com/@siddhiipatell)
 
----
-
 <!-- Tech Stack Section -->
 ### 🧠 Technologies & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,aws,docker,linux,git,github,jenkins,azure,gcp,figma,blender,ps,ai,xd,html,css,js,react,nodejs,mongodb,mysql,cpp,java,c,vscode&perline=14" />
 </p>
 
----
 
 <!-- Connect With Me -->
 ### 🤝 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhiipatell/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="40"/></a>
   <a href="https://twitter.com/siddhiipatell" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="40"/></a>
+  <br>
+  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+  ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+  ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+  [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 </p>
