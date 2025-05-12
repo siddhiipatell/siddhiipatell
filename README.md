@@ -22,7 +22,7 @@
 <!-- Tech Stack Section -->
 ### 🧠 Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,aws,docker,linux,git,github,jenkins,azure,gcp,figma,blender,ps,ai,xd,html,css,js,react,nodejs,mongodb,mysql,cpp,java,c,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,aws,docker,linux,git,github,jenkins,azure,gcp,figma,blender,ps,ai,xd,html,css,js,react,nodejs,mongodb,mysql,cpp,java,c,vscode&perline=14" />
 </p>
 
 ---
