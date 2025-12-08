@@ -1,7 +1,7 @@
 <!-- Stylish header without border -->
 <div align="center">
   <h1>Hey there 👋, I'm <span style="color:#00bcd4;">Siddhi Patel</span></h1>
-  <p><strong>AI/ML Enthusiast | Dev | Designer | Creator</strong></p>
+  <p><strong>AI/ML Engineer | Dev | Designer | Creator</strong></p>
 </div>
 
 <!-- Tech Snake Animation -->
@@ -20,7 +20,7 @@
 <!-- Tech Stack Section -->
 ### 🧠 Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,aws,docker,linux,git,github,jenkins,azure,gcp,figma,blender,ps,ai,xd,html,css,js,react,nodejs,mongodb,mysql,cpp,java,c,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,aws,docker,linux,git,github,jenkins,azure,gcp,figma,blender,ps,ai,xd,html,css,js,react,nodejs,mongodb,mysql,java,vscode&perline=14" />
 </p>
 
 
