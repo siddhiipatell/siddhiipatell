@@ -27,6 +27,7 @@
 - ✍️ I write on AI, tech, and design → [My Medium](https://medium.com/@siddhiipatell)
 - 📬 Reach me: **patelsiddhi2002@gmail.com**
 
+<br>
 <!-- Tech Stack Section -->
 ### 🧠 Technologies & Tools  
 <p align="center">
