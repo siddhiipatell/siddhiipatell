@@ -14,11 +14,13 @@
 <p>
   I'm an AI/ML Engineer passionate about building intelligent systems, designing seamless user experiences, and crafting creative digital solutions. My work spans across AI agents, GenAI systems, full-stack & DevOps workflows, and UI/UX + 3D design — blending technical depth with creativity.
 </p>
+
 #### What I'm currently exploring 
 - 🤖 AI Agents, advanced LLM workflows, and GenAI product architectures
 - 🧠 Deep Learning, NLP, and data-driven AI systems
 - 🔧 DevOps: Docker, CI/CD, automation pipelines
 - 🎨 Design: UI/UX in Figma, brand systems, and Blender 3D
+
 #### A little more about me
 - 💼 AI/ML Engineer & Designer working on real-world projects
 - 🎨 Freelance UI/UX + Brand Designer
