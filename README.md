@@ -25,6 +25,7 @@
 - 💼 AI/ML Engineer & Designer working on real-world projects
 - 🎨 Freelance UI/UX + Brand Designer
 - ✍️ I write on AI, tech, and design → [My Medium](https://medium.com/@siddhiipatell)
+- 🌐 Portfolio website: [Portfolio](https://siddhipatel.framer.website)
 - 📬 Reach me: **patelsiddhi2002@gmail.com**
 
 <!-- Tech Stack Section -->
