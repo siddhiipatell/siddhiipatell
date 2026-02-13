@@ -1,7 +1,7 @@
 <!-- Stylish header without border -->
 <div align="center">
   <h1>Hey there 👋, I'm <span style="color:#00bcd4;">Siddhi Patel</span></h1>
-  <p><strong>AI/ML Engineer | Dev | Designer | Creator</strong></p>
+  <p><strong>AI Engineer | ML Systems Builder | Designer</strong></p>
 </div>
 
 <!-- Tech Snake Animation -->
@@ -12,14 +12,14 @@
 <!-- About Me Section -->
 ### 💡 About Me
 <p>
-  I'm an AI/ML Engineer passionate about building intelligent systems, designing seamless user experiences, and crafting creative digital solutions. My work spans across AI agents, GenAI systems, full-stack & DevOps workflows, and UI/UX + 3D design — blending technical depth with creativity.
+  I’m an AI/ML Engineer passionate about building intelligent systems and developing scalable, data-driven solutions. My work spans AI agents, GenAI systems, full-stack architectures, and DevOps workflows — blending technical depth with product-focused thinking.
 </p>
 
 #### What I'm currently exploring 
-- 🤖 AI Agents, advanced LLM workflows, and GenAI product architectures
-- 🧠 Deep Learning, NLP, and data-driven AI systems
-- 🔧 DevOps: Docker, CI/CD, automation pipelines
-- 🎨 Design: UI/UX in Figma, brand systems, and Blender 3D
+- 🤖 AI Agents, multi-agent systems & LLM orchestration 
+- 🧠 Transformer architectures, embeddings, vector databases & RAG pipelines
+- 🔧 MLOps pipelines, CI/CD for ML systems, Dockerized deployments
+- 🎨 Design: UI/UX in Figma, design tokens & 3D workflows in Blender
 
 #### A little more about me
 - 💼 AI/ML Engineer & Designer working on real-world projects
