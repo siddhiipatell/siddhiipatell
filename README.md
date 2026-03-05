@@ -47,4 +47,4 @@
   <a href="https://twitter.com/siddhiipatell" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="40"/></a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/siddhiipatell/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=siddhiipatell&label=VISITORS&countColor=%23dce775&style=plastic)
