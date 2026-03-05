@@ -46,3 +46,5 @@
   <a href="https://www.linkedin.com/in/siddhiipatell/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="40"/></a>
   <a href="https://twitter.com/siddhiipatell" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="40"/></a>
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/siddhiipatell/count.svg)
